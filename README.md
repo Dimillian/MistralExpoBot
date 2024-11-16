@@ -8,7 +8,7 @@ This is a simple hello world project I did in order to train myself with React N
 
 * Chat with various Mistral models.
 * Polished chat interface.
-* Automaticallu save chat history.
+* Automatically save chat history.
 * Restore chat context.
 
 # How to build & run
